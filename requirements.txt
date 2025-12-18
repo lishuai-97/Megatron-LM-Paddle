@@ -1,0 +1,15 @@
+paddlepaddle-gpu==3.1.0
+numpy>=1.20.0
+pyyaml>=5.4.1
+regex
+requests
+tqdm
+six
+scikit-learn
+tensorboard>=2.8.0
+nltk>=3.6.7
+sentencepiece
+jieba
+colorama
+colorlog
+easydict 
